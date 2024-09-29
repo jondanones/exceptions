@@ -1,0 +1,14 @@
+C:\Users\LOGICA\source\repos\exercExcept\bin\Debug\net8.0\exercExcept.exe
+C:\Users\LOGICA\source\repos\exercExcept\bin\Debug\net8.0\exercExcept.deps.json
+C:\Users\LOGICA\source\repos\exercExcept\bin\Debug\net8.0\exercExcept.runtimeconfig.json
+C:\Users\LOGICA\source\repos\exercExcept\bin\Debug\net8.0\exercExcept.dll
+C:\Users\LOGICA\source\repos\exercExcept\bin\Debug\net8.0\exercExcept.pdb
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\exercExcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\exercExcept.AssemblyInfoInputs.cache
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\exercExcept.AssemblyInfo.cs
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\exercExcept.csproj.CoreCompileInputs.cache
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\exercExcept.dll
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\refint\exercExcept.dll
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\exercExcept.pdb
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\exercExcept.genruntimeconfig.cache
+C:\Users\LOGICA\source\repos\exercExcept\obj\Debug\net8.0\ref\exercExcept.dll
